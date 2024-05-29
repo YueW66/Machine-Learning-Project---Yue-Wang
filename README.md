@@ -11,9 +11,11 @@ Platform: Codalab
 # My Contributions
 ## Feature Engineering
 Feature Importance: Conducted permutation feature importance analysis to identify the most influential features.
+
 Feature Engineering: Engineered features such as CurrentSessionLength, Day, Time, StandardizedProgression, ResponseValue_mean, ResponseValue_median, ResponseValue_std.
 ## Model Development
 Model Selection: Implemented and tested various models including Random Forest, Logistic Regression, Support Vector Regression (SVR), Gradient Boosting, and Stochastic Gradient Descent Regression (SGDR).
+
 Hyperparameter Tuning: Conducted hyperparameter tuning for the Random Forest model using GridSearchCV to optimize performance based on Mean Absolute Error (MAE).
 ## Data Processing
 Test Dataset Processing: Ensured the correct order of data in the test dataset and handled any necessary preprocessing to maintain data integrity.
