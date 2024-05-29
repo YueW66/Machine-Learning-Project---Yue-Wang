@@ -6,6 +6,7 @@ This repository contains the code and report for our machine learning assignment
 The task was to predict the well-being scores of users based on their interaction with a game designed to lower stress and improve mental health. We were required to submit our predictions and a detailed report describing our approach, solutions, and the code used for predictions.
 ## Submission
 Rank: 5th out of 46 groups
+
 Platform: Codalab
 
 # My Contributions
