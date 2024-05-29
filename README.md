@@ -11,9 +11,9 @@ Platform: Codalab
 
 # My Contributions
 ## Feature Engineering
-Feature Importance: Conducted permutation feature importance analysis to identify the most influential features.
+Feature Importance: Conducted feature importance analysis to identify the most influential features.
 
-Feature Engineering: Engineered features such as CurrentSessionLength, Day, Time, StandardizedProgression, ResponseValue_mean, ResponseValue_median, ResponseValue_std.
+Feature Engineering: Extracting date and time from one feature to create new Day and Time features. Based on team members' ideas, perform statistical aggregation on features highly correlated with the target variable to generate new features.
 ## Model Development
 Model Selection: Implemented and tested various models including Random Forest, Logistic Regression, Support Vector Regression (SVR), Gradient Boosting, and Stochastic Gradient Descent Regression (SGDR).
 
